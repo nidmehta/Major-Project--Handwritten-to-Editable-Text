@@ -1,0 +1,6 @@
+in cmd-
+cd desktop
+cd major project code
+cd handwritten text recognition
+cd src
+python main.py --img_file ../data/line.png
